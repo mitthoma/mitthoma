@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![mitthoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitthoma)](https://github.com/mitthoma/github-readme-stats)
+
+
 <!--
 **mitthoma/mitthoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
