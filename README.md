@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mitthoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitthoma)](https://github.com/mitthoma/github-readme-stats)
+[![mitthoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitthoma&count_private=true)](https://github.com/mitthoma/github-readme-stats)
 
 
 <!--
