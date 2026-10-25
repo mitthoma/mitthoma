@@ -7,7 +7,7 @@ Nashville, TN · Remote · [mitchell-codes.com](https://mitchell-codes.com) · [
 $ whoami
 8 years building full-stack products: Node/Express, React/Next, Vue/Nuxt, TypeScript, PostgreSQL.
 Last year: shipping agent systems and agentic workflows that replace real business processes.
-5 years delivering inside a compliance-heavy pharma environment (OPEN Health) — MLR review, audit trails, zero-tolerance for "it mostly works."
+5 years delivering inside compliance-heavy, regulated environments — review gates, audit trails, zero tolerance for "it mostly works."
 ```
 
 ## Now
