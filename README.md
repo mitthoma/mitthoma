@@ -12,7 +12,7 @@ Last year: shipping agent systems and agentic workflows that replace real busine
 
 ## Now
 
-- Building in public: an overnight multi-agent system (case study + repo landing here first).
+- Building in public: [Nightwatch](https://mitchell-codes.com/work/nightwatch), an overnight agent orchestrator — mission brief live, repo lands at W1.
 - Writing weekly on evals, cost, and where agents break → [mitchell-codes.com/blog](https://mitchell-codes.com/blog)
 - Open to Forward Deployed Engineer / AI Engineer / Senior Full-Stack (AI product) roles — remote or Nashville.
 
@@ -28,8 +28,8 @@ Last year: shipping agent systems and agentic workflows that replace real busine
 | Project | What it is | Stack |
 |---|---|---|
 | [mt-site](https://github.com/mitthoma/mt-site) | This site — mitchell-codes.com, maintained nightly by an agent that audits, opens PRs, and publishes posts | Next.js · React · TypeScript · Tailwind |
-| Overnight multi-agent system | Case study and repo coming | Agents · evals · Postgres |
-| Client work | Marketplaces, admin systems, interactive assets for pharma, WordPress rebuilds — via [Sandstone](https://sandstonedevs.com) | Vue/Nuxt · Node · Prisma · PostgreSQL |
+| [Nightwatch](https://mitchell-codes.com/work/nightwatch) | Overnight agent orchestrator: scheduled multi-agent jobs, traces, cost accounting, evals, human gates. In flight. | TypeScript · Postgres · Claude API · Docker |
+| [Timberwright](https://timberwright.ai) | My studio — your entire tech team as a service: managed care, SEO/AEO, and full-stack engineering for retainer clients. Marketplaces, admin systems, pharma interactive assets, mobile apps. | Next · Vue/Nuxt · Node · Prisma · PostgreSQL |
 
 More on the [site](https://mitchell-codes.com#work).
 
