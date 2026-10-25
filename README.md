@@ -29,7 +29,7 @@ Last year: shipping agent systems and agentic workflows that replace real busine
 |---|---|---|
 | [mt-site](https://github.com/mitthoma/mt-site) | This site — mitchell-codes.com, maintained nightly by an agent that audits, opens PRs, and publishes posts | Next.js · React · TypeScript · Tailwind |
 | [Nightwatch](https://mitchell-codes.com/work/nightwatch) | Overnight agent orchestrator: scheduled multi-agent jobs, traces, cost accounting, evals, human gates. In flight. | TypeScript · Postgres · Claude API · Docker |
-| [Timberwright](https://timberwright.ai) | My studio — your entire tech team as a service: managed care, SEO/AEO, and full-stack engineering for retainer clients. Marketplaces, admin systems, pharma interactive assets, mobile apps. | Next · Vue/Nuxt · Node · Prisma · PostgreSQL |
+| [Timberwright](https://timberwright.ai) | My studio — your entire tech team as a service: managed care, SEO/AEO, and full-stack engineering for retainer clients. Marketplaces, admin systems, interactive sales assets, mobile apps. | Next · Vue/Nuxt · Node · Prisma · PostgreSQL |
 
 More on the [site](https://mitchell-codes.com#work).
 
